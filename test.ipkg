@@ -1,0 +1,13 @@
+package test
+
+author     = Louis Pilfold
+maintainer = Louis Pilfold
+brief      = "Testing Library inspired by HSpec."
+readme     = README.md
+sourceloc  = https://github.com/lpil/idris-test
+bugtracker = https://github.com/lpil/idris-test/issues
+
+sourcedir  = src
+main       = ExampleTests
+modules    = Test
+           , ExampleTests
